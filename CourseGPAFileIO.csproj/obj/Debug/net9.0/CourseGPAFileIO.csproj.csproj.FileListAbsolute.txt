@@ -1,0 +1,14 @@
+C:\Users\Elliott\CourseGPAFileIO.csproj\bin\Debug\net9.0\CourseGPAFileIO.csproj.exe
+C:\Users\Elliott\CourseGPAFileIO.csproj\bin\Debug\net9.0\CourseGPAFileIO.csproj.deps.json
+C:\Users\Elliott\CourseGPAFileIO.csproj\bin\Debug\net9.0\CourseGPAFileIO.csproj.runtimeconfig.json
+C:\Users\Elliott\CourseGPAFileIO.csproj\bin\Debug\net9.0\CourseGPAFileIO.csproj.dll
+C:\Users\Elliott\CourseGPAFileIO.csproj\bin\Debug\net9.0\CourseGPAFileIO.csproj.pdb
+C:\Users\Elliott\CourseGPAFileIO.csproj\obj\Debug\net9.0\CourseGPAFileIO.csproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elliott\CourseGPAFileIO.csproj\obj\Debug\net9.0\CourseGPAFileIO.csproj.AssemblyInfoInputs.cache
+C:\Users\Elliott\CourseGPAFileIO.csproj\obj\Debug\net9.0\CourseGPAFileIO.csproj.AssemblyInfo.cs
+C:\Users\Elliott\CourseGPAFileIO.csproj\obj\Debug\net9.0\CourseGPAFileIO.csproj.csproj.CoreCompileInputs.cache
+C:\Users\Elliott\CourseGPAFileIO.csproj\obj\Debug\net9.0\CourseGPAFileIO.csproj.dll
+C:\Users\Elliott\CourseGPAFileIO.csproj\obj\Debug\net9.0\refint\CourseGPAFileIO.csproj.dll
+C:\Users\Elliott\CourseGPAFileIO.csproj\obj\Debug\net9.0\CourseGPAFileIO.csproj.pdb
+C:\Users\Elliott\CourseGPAFileIO.csproj\obj\Debug\net9.0\CourseGPAFileIO.csproj.genruntimeconfig.cache
+C:\Users\Elliott\CourseGPAFileIO.csproj\obj\Debug\net9.0\ref\CourseGPAFileIO.csproj.dll
